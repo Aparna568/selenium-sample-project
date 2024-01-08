@@ -1,5 +1,5 @@
 ## Overview
-This repository contains automated test scripts using Selenium WebDriver with Java to perform end-to-end testing on the Sauce Labs e-commerce demo site.
+This repository contains automated test scripts using Selenium WebDriver with Java to perform end-to-end testing on the Sauce Labs e-commerce site.
 ## Features
 - Automated test suites using Selenium with Java
 - Tests covering various functionalities of the e-commerce site
